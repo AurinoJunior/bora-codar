@@ -18,7 +18,7 @@
 
 ## :blue_book: Contexto
 
-Repositorio de referência e pratica com html, css, js.
+Repositorio de referência em html, css, js.
 
 ## :page_with_curl: Licença
 
